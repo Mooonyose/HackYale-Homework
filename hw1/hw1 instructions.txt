@@ -1,0 +1,9 @@
+hw1 instructions:
+
+1. Finish Command Line Tutorial
+2. Create "hw1" git repository on GitHub
+3. Upload your assignment to hw1
+4. On Lore, submit JUST the link to your "hw1" repository
+
+Assignment:
+Check PDF file.

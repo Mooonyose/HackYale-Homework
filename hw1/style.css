@@ -1,0 +1,162 @@
+body {
+	background-color: #eef0f1;
+	font-family: Arial;
+}
+
+img {
+	border: solid black 4px;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+.navbar {
+	height: 150px;
+	background-color: black;
+	width: 102%;
+	margin-top: -20px;
+	position: fixed;
+	margin-left: -8px;
+	z-index: 1000;
+	color: white;
+}
+
+ul li {
+	float: left;
+	margin-top: 29px;
+	width: 30%;
+	height: 60px;
+	font-size: 55px;
+	display: inline;
+	margin-left: 35px;
+}
+
+.rightnav {
+	float: right;
+	margin-top: 47px;
+	width: 10%;
+	height: 60px;
+	font-size: 26px;
+	display: inline;
+	margin-right: 36px;
+}
+
+.navlink {
+	color: white;
+}
+
+.header {
+	height: 405px;
+	background-color: white;
+	clear: both;
+	margin-left: -8px;
+	width: 101%;
+	text-align: center;
+}
+
+h1 {
+	position: absolute;
+	font-size: 70px;
+	font-family: Arial;
+	margin-top: 220px;
+	margin-left: 421px;
+}
+
+.content-top {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.left {
+	height: 436px;
+	width: 296px;
+	margin-top: 10px;
+	background-color: #eef0f1;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.middle {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 332px;
+	width: 296px;
+	height: 436px;
+	background-color: #eef0f1;
+}
+
+.right {
+	position: absolute;
+	margin-left: 664px;
+	margin-top: 10px;
+	height: 436px;
+	width: 296px;
+	background-color: #eef0f1;
+	float: right;
+	margin-bottom: 10px;
+}
+
+.bottom-left {
+	height: 436px;
+	width: 636px;
+	background-color: #eef0f1;
+	clear:both;
+}
+
+.small-text {
+	font-size: 10px;
+}
+
+.end {
+	position: absolute;
+	padding-bottom: 36px;
+}
+
+.bottom-right {
+	width: 296px;
+	height: 436px;
+	background-color: #eef0f1;
+	float: right;
+	clear: right;
+	margin-top: -478px;
+	margin-right: -19px;
+}
+
+.small {
+	height: 107px;
+	width: 296px;
+	padding-top: 17px;
+}
+
+.small-middle {
+	height: 105px;
+	width: 296px;
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
+	padding-top: 15px;
+}
+
+.tiny {
+	float: left;
+}
+
+.small-head {
+	float: right;
+	margin-top: -2px;
+	margin-right: 150px;
+}
+
+.small-p {
+	float: right;
+	clear: both;
+	margin-top: -66px;
+}
